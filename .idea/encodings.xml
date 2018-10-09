@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/../Shop" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../Shop/Config-Server" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../Shop/Eureka-Server" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../Shop/Input" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../Shop/Item" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../Shop/Order" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../Shop/Zuul" charset="UTF-8" />
+  </component>
+</project>
